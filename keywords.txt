@@ -1,0 +1,10 @@
+uText	KEYWORD1
+
+setFont	KEYWORD2
+setBackground	KEYWORD2
+setForeground	KEYWORD2
+print	KEYWORD2
+clean	KEYWORD2
+getLineHeight	KEYWORD2
+getBaseline	KEYWORD2
+getTextWidth	KEYWORD2
