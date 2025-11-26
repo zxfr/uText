@@ -7,7 +7,7 @@ The library is natively supported by `Pixelmeister GUI modeling tool`. `Pixelmei
 
 For more info see 
 
-[uText API](https://github.com/zxfr/Pixelmeister/i/MANUAL.md#utext)
+[uText API](https://github.com/zxfr/Pixelmeister/tree/main/i/MANUAL.md#utext)
 
 [Pixelmeister](https://github.com/zxfr/Pixelmeister)
 
